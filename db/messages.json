@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "message": "Hello",
+        "name": "Bekzod"
+    },
+    {
+        "id": 2,
+        "message": "OI OI OI",
+        "name": "Kizaru"
+    },
+    {
+        "id": 3,
+        "message": "yeyyy",
+        "name": "Benny"
+    },
+    {
+        "id": 3,
+        "name": "Benny",
+        "message": "Salom!!"
+    },
+    {
+        "id": 3,
+        "name": "Benny",
+        "message": "Salom!!",
+        "msg_id": 906
+    },
+    {
+        "id": 1,
+        "name": "Bekzod",
+        "message": "hey",
+        "msg_id": 1751585981825,
+        "timestamp": "2025-07-03T23:39:41.825Z"
+    },
+    {
+        "id": 1,
+        "name": "Bekzod",
+        "message": "i know",
+        "msg_id": 1751585986203,
+        "timestamp": "2025-07-03T23:39:46.203Z"
+    }
+]
